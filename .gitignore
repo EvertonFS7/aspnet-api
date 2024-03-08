@@ -1,0 +1,94 @@
+# Debug binaries
+*.pdb
+
+# Visual Studio user configuration files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Visual Studio Build folders
+**/[Bb]in/
+**/[Oo]bj/
+**/[Ll]og/
+**/[Dd]ebug/
+**/[Rr]elease/
+**/[Xx]64/
+**/[Xx]86/
+**/[Bb]uild/
+**/[Bb]ld/
+**/[Ll]og[s]/
+
+# Visual Studio tools folders and files
+.vs/
+.vscode/
+*.njsproj
+*.sln
+*.swp
+*.*proj
+*.*proj.user
+*.mstest
+*.cache
+*.trx
+*.vspscc
+*_i.c
+*_p.c
+*_h.h
+*.ilk
+*.meta
+*.obj
+*.pch
+*.pdb
+*.pgc
+*.pgd
+*.rsp
+*.sbr
+*.tlb
+*.tli
+*.tlh
+*.tmp
+*.tmp_proj
+*.log
+*.vspx
+*.sap
+
+# Package files
+**/[Pp]ackages/*
+*.nuget
+*.nupkg
+*.nuspec
+nuget.exe
+NuGet.Config
+
+# Resharper tools
+_ReSharper*/
+*.[Rr]e[Ss]harper
+*.DotSettings.user
+
+# Testing tools
+**/[Tt]est[Rr]esult*/
+**/[Bb]uild[Ll]og.*
+
+# Windows Image File Execution Options
+**/EoPDB/
+
+# Rider related files and folders
+.idea/
+
+# Windows temporary folders
+$RECYCLE.BIN/
+
+# Windows Temp Files
+Thumbs.db
+ehthumbs.db
+
+# ASP.NET Scaffolding cache and log folders
+ScaffoldingReadMe.txt
+*.log
+
+# Project-specific files that contain sensitive or environment-specific information
+# Uncomment and adjust the lines below according to your needs
+# appsettings.json
+# appsettings.Development.json
+# appsettings.Production.json
